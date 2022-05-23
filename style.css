@@ -1,5 +1,5 @@
 header {
-    background-color: rgb(15, 211, 211);
+    background-color: #3474ff;
    
 }
 
@@ -14,4 +14,6 @@ color: darkgrey;
     color: aqua;
 }
 
-#spangiallo {background-color: yellow;}
+.spangiallo {background-color: yellow;}
+#riga-evidenziata0{background-color: #3474ff;}
+.riga-evidenziata {background-color: aquamarine;}
