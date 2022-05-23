@@ -1,6 +1,17 @@
-#logo { 
-    height: 100px;
-} 
 header {
-    background-color: goldenrod;
-} 
+    background-color: rgb(15, 211, 211);
+   
+}
+
+#logo{
+    height: 40px;
+}
+
+#parte1{
+color: darkgrey;
+}
+#parte2{
+    color: aqua;
+}
+
+#spangiallo {background-color: yellow;}
